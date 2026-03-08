@@ -1,3 +1,4 @@
+# Кристина Журавлева, 41-я когорта - Финальный проект. Инженер по тестированию плюс
 import requests
 from configuration import URL_SERVICE, CREATE_ORDERS_ENDPOINT, GET_ORDERS_TRACK_ENDPOINT
 
